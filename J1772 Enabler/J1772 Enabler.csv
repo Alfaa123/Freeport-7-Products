@@ -1,0 +1,4 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+D1,1,D,,,,1206,~
+R1,1,2.74k,,,,1206,~
+R2,1,1.3k,,,,1206,~
